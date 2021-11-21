@@ -1,28 +1,34 @@
-# Olá! Meu nome é Filipe dos Santos
 
-#### Sou estudante de Análise e Desenvolvimento de Sistemas na Fiap e Desenvolvedor Full Stack.
+<h1 align="center"> Olá! Meu nome é Filipe dos Santos 👋 </h1>
 
-### 💻 Linguagens e Ferramentas 🧰
+<h4 align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack com foco em Backend. </h4>
+
+<h3 align="center"> Linguagens e Ferramentas 🧰 </h3>
+
+<div align="center">
+  <div>  
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />    
+      <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+      <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+      <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />       
+      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+      <img height="45" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" /> 
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />  
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+     </div>  
+</div>
+
 
 <div>
-  <p>
-    <img height="25" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-    <img height="25" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
-    <img height="25" src="https://img.shields.io/badge/-Typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>  
-  </p>
-
-  <p>
-    <img height="25" src="https://img.shields.io/badge/-HTML 5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/-CSS 3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" /> 
-    <img height="25" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  
-    <img height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  </p>
 </div>
 
 <br/>
 
-<p align="">
+<p align="center">
   <a href="https://github.com/fhilips/github-readme-stats">
     <img
       align=""
@@ -38,9 +44,10 @@
   </a>
 </p>
 
-### Meus contatos 🤝
 
-<div>  	
+<h3 align="center"> Meus contatos 🤝 <h3/>
+
+<div align="center">  	
  <a href = "mailto:fhilips.souza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/filipe-dos-santos-0bb65a8a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div/> 

@@ -2,12 +2,13 @@
 <h1 align="center"> Olá! Meu nome é Filipe dos Santos 👋 </h1>
 
 
-<h4 align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack com foco em Backend.</h4>
+<h3 align="center"> Bem vindo a minha página no Github! 😄</h4>
 <pre>
-  Bem vindo a minha página no github!
+  Algumas informações sobre mim:
+  - Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack
   - Sou apaixonado em tudo relacionado a boas práticas de código e arquitetura
-  - Atualmente estudando Java com Spring
-  - Curiosidades sobre mim: Adoro escalar e sou vegetariano
+  - Atualmente estudando Java no ecossistema Spring
+  - Curiosidades sobre mim: Adoro escalar e sou ovolactovegetariano
   
 </pre>
   

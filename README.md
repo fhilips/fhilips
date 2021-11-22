@@ -1,8 +1,17 @@
 
 <h1 align="center"> Olá! Meu nome é Filipe dos Santos 👋 </h1>
 
-<h4 align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack com foco em Backend. </h4>
 
+<h4 align="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack com foco em Backend.</h4>
+<pre>
+  Bem vindo a minha página no github!
+  - Sou apaixonado em tudo relacionado a boas práticas de código e arquitetura
+  - Atualmente estudando Java com Spring
+  - Curiosidades sobre mim: Adoro escalar e sou vegetariano
+  
+</pre>
+  
+  
 <h3 align="center"> Linguagens e Ferramentas 🧰 </h3>
 
 <div align="center">
@@ -42,7 +51,6 @@
       src="https://github-readme-stats.vercel.app/api?username=fhilips&show_icons=true&theme=dark"
     />
   </a>
-</p>
 
 
 <h3 align="center"> Meus contatos 🤝 <h3/>

@@ -5,10 +5,10 @@
 <h3 align="center"> Bem vindo a minha página no Github! 😄</h4>
 <pre>
   Algumas informações sobre mim:
-  - Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack
-  - Sou apaixonado em tudo relacionado a boas práticas de código e arquitetura
+  - Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack
+  - Sou apaixonado em tudo relacionado a boas práticas de programação e arquitetura
   - Atualmente estudando Java no ecossistema Spring
-  - Curiosidades sobre mim: Adoro escalar e sou ovolactovegetariano
+  - Curiosidades sobre mim: Adoro praticar escalada e sou ovolactovegetariano
   
 </pre>
   

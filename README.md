@@ -5,9 +5,9 @@
 <h3 align="center"> Bem vindo a minha página no Github! 😄</h4>
 <pre>
   Algumas informações sobre mim:
-  - Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack
+  - Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Java
   - Sou apaixonado em tudo relacionado a boas práticas de programação e arquitetura
-  - Atualmente estudando Java no ecossistema Spring
+  - Atualmente estudando Java no ecossistema Spring e Cultura DevOps
   - Curiosidades sobre mim: Adoro praticar escalada e sou ovolactovegetariano
   
 </pre>

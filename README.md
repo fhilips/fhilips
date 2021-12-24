@@ -4,10 +4,11 @@
 
 <h3 align="center"> Bem vindo a minha página no Github! 😄</h4>
 <pre>
-  Algumas informações sobre mim:
+  Algumas informações:
   - Estudante de Análise e Desenvolvimento de Sistemas
-  - Sou apaixonado em tudo relacionado a boas práticas de programação e arquitetura
+  - Sou apaixonado em tudo relacionado a boas práticas de programação  
   - Atualmente estudando Java no ecossistema Spring e Cultura DevOps
+  - Curiosidades: Gosto de praticar escalada e sou ovolactovetariano
   
 </pre>  
   
@@ -20,6 +21,7 @@
       <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
       <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
       <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+      <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
       <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />       
       <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
       <img height="45" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" /> 
@@ -49,6 +51,7 @@
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=fhilips&show_icons=true&theme=dark"
     />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fhilips" alt="fhilips" />
   </a>
 
 

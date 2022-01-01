@@ -6,7 +6,7 @@
 <pre>
   Algumas informações:
   - Estudante de Análise e Desenvolvimento de Sistemas
-  - Sou apaixonado em tudo relacionado a boas práticas de programação  
+  - Interessado em tudo relacionado a boas práticas de programação  
   - Atualmente estudando Java no ecossistema Spring e Cultura DevOps
   - Curiosidades: Gosto de praticar escalada e sou ovolactovetariano
   

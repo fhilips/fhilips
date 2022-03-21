@@ -7,7 +7,7 @@
   Algumas informações:
   - Estudante de Análise e Desenvolvimento de Sistemas
   - Interessado em tudo relacionado a boas práticas de programação  
-  - Atualmente estudando Java no ecossistema Spring e Cultura DevOps
+  - Atualmente estudando Java no ecossistema Spring
   
 </pre>  
   

@@ -4,11 +4,8 @@
 
 <h3 align="center"> Bem vindo a minha página no Github! 😄</h4>
 <pre>
-  Algumas informações:
-  - Estudante de Análise e Desenvolvimento de Sistemas
-  - Interessado em tudo relacionado a boas práticas de programação  
-  - Atualmente estudando Java no ecossistema Spring
-  
+  - Formado em Análise e Desenvolvimento de Sistemas
+  - Desenvolvedor Full Stack utilizando
 </pre>  
   
 <h3 align="center"> Linguagens e Ferramentas 🧰 </h3>
